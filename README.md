@@ -4,8 +4,10 @@
 
 ## Install
 
-```bash
+```
 yarn add hexo-renderer-tailwindcss
+
+// or
 
 npm install hexo-renderer-tailwindcss --save
 ```
