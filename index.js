@@ -1,5 +1,5 @@
 'use strict'
 
-var renderer = require('./libs/postcss/renderer')
+var renderer = require('./lib/renderer')
 
 hexo.extend.renderer.register('css', 'css', renderer)
