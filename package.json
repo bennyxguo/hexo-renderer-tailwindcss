@@ -8,7 +8,7 @@
   "license": "MIT",
   "devDependencies": {},
   "dependencies": {
-    "postcss": "^7.0.21",
+    "postcss": "^8.2.10",
     "postcss-import": "^12.0.1",
     "postcss-load-config": "^2.1.0",
     "tailwindcss": "^1.1.3"
